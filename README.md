@@ -1,2 +1,2 @@
 # Python_kalkulator
-Kalkulator w jezyku Python_napisany do celów treningowych
+Kalkulator w jezyku Python napisany do celów treningowych
